@@ -56,4 +56,4 @@ $ python busters.py -p GreedyBustersAgent -l bigHunt
 ```
 
 ### Author
-The solutions to the problems originally posted at the Pacman project site were developed by Ramón Argüello (@monchote) back in 2011.
+The solutions to the problems originally posted at the Pacman project site were developed by Ramón Argüello ([@monchote](https://github.com/monchote)) back in 2011.
